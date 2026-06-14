@@ -12,17 +12,17 @@
     "type-check": "tsc --build"
   },
   "dependencies": {
-    "@devvit/public-api": "0.12.6",
-    "axios": "^1.13.2",
+    "@devvit/public-api": "0.13.3",
+    "axios": "^1.16.0",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
   },
   "devDependencies": {
     "@types/node": "^25.0.3",
-    "devvit": "0.12.6",
+    "devvit": "1.0.0",
     "dotenv-cli": "8.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.16"
+    "vitest": "^4.1.8"
   }
 }
