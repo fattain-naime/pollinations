@@ -49,7 +49,7 @@
         "@standard-community/standard-json": "^0.3.5",
         "@standard-community/standard-openapi": "^0.2.9",
         "@tanstack/react-router": "^1.139.3",
-        "better-auth": "1.4.17",
+        "better-auth": "1.6.11",
         "clsx": "^2.1.1",
         "date-fns": "^4.1.0",
         "drizzle-orm": "^0.44.7",
@@ -85,7 +85,7 @@
         "typescript": "^5.9.3",
         "vite": "^7.2.4",
         "vite-tsconfig-paths": "^5.1.4",
-        "vitest": "^3.2.4",
+        "vitest": "^4.1.9",
         "wrangler": "^4.55.0"
     }
 }
